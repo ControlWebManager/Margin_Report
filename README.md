@@ -30,8 +30,30 @@ Al cambiar la dimensión del logo, el  HEADER se redimensiona, y pierde la propo
 [Reporte con error][Reporte con error]
  https://github.com/ControlWebManager/Margin_Report/blob/master/Quotation%20_%20Order%20(39).pdf
      
-     
+## Solución del Error , Versión 1.0
 
+- Mantener el máximo height en 90px
+- No realizar ms cambios
+
+### Imagen 
+![](https://github.com/ControlWebManager/Margin_Report/blob/master/Selecci%C3%B3n_770.png)
+
+[Reporte con error][Reporte con error]
+ https://github.com/ControlWebManager/Margin_Report/blob/master/Quotation%20_%20Order%20(39).pdf
+ 
+## Solución del Error , Tipo 2.2
+
+- De cambiar la dimensión del logo superior a a 90px se debe modificar los parámetros margen superior y espaciado del encabezado que se encuentra en la opciones de Formato de Papel que se esté utilizando para el reporte
+
+### Imagen 1
+![](https://github.com/ControlWebManager/Margin_Report/blob/master/Selecci%C3%B3n_772.png)
+
+### Imagen 2
+![](https://github.com/ControlWebManager/Margin_Report/blob/master/Selecci%C3%B3n_771.png)
+
+[Reporte con error][Reporte con error]
+ https://github.com/ControlWebManager/Margin_Report/blob/master/Quotation%20_%20Order%20(39).pdf
+ 
 ---------------------
 ---------------------
 
