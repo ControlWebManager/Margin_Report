@@ -14,13 +14,13 @@
 
 - La hoja del reporte se dividen en tres secciones, HEADER ,  PAGE/CONTENT , FOOTER
 - Cada sección trabaja con plantillas XML totalmente diferentes, luego se unen para formar una sola estructura HTML
-- Luego se ejecuta método específico con python que realiza la parametrización final y se ejecuta un programa llamado WKHTMLTOPDF
-- Este programa es el encargado de tranformar el contenido HTML a PDF. Aquí es donde se complica tody 
-- La división mencionada en el item 1, el programa WKHTMLTOPDF es el encargado de manipular y realizar la modificación final del PDF
+- Seguidamente se ejecuta método específico con python que realiza la parametrización final y se ejecuta un programa llamado WKHTMLTOPDF
+- Este programa es el encargado de tranformar el contenido HTML a PDF.
+- La división mencionada en el item 1, el programa WKHTMLTOPDF es el encargado de manipular y realizar el PDF con los datos enviado desde python,lo que dificulta a primera intancias encontrar solución por las tantas herramientas y lenguajes de programación implicados
 
-Explicado lo anterior:
+Explicado lo anterior, aqui tenemos el error:
 
-Al cambiar la dimensión del logo, el  HEADER se redimensiona, y pierde la proporción inicial que le da el programa WKHTMLTOPDF, y sobresescribe el contenido del HEADER enla seccion PAGE/CONTENT
+Al cambiar la dimensión del logo, el  HEADER se redimensiona, y pierde la proporción inicial que le da el programa WKHTMLTOPDF, y sobre-escribe el contenido del HEADER en la seccion PAGE/CONTENT
 
 ### Imagen página 1
 ![](https://github.com/ControlWebManager/Margin_Report/blob/master/Selecci%C3%B3n_769.png)
