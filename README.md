@@ -39,7 +39,7 @@ Al cambiar la dimensión del logo, el  HEADER se redimensiona, y pierde la propo
 ![](https://github.com/ControlWebManager/Margin_Report/blob/master/Selecci%C3%B3n_770.png)
 
 [Reporte con error][Reporte con error]
- https://github.com/ControlWebManager/Margin_Report/blob/master/Quotation%20_%20Order%20(39).pdf
+ https://github.com/ControlWebManager/Margin_Report/blob/master/Quotation%20_%20Order%20(35).pdf
  
 ## Solución del Error , Tipo 2.2
 
@@ -52,7 +52,7 @@ Al cambiar la dimensión del logo, el  HEADER se redimensiona, y pierde la propo
 ![](https://github.com/ControlWebManager/Margin_Report/blob/master/Selecci%C3%B3n_771.png)
 
 [Reporte con error][Reporte con error]
- https://github.com/ControlWebManager/Margin_Report/blob/master/Quotation%20_%20Order%20(39).pdf
+ https://github.com/ControlWebManager/Margin_Report/blob/master/Quotation%20_%20Order%20(44).pdf
  
 ---------------------
 ---------------------
