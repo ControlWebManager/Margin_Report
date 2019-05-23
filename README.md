@@ -16,7 +16,7 @@
 - Cada sección trabaja con plantillas XML totalmente diferentes, luego se unen para formar una sola estructura HTML
 - Seguidamente se ejecuta método específico con python que realiza la parametrización final y se ejecuta un programa llamado WKHTMLTOPDF
 - Este programa es el encargado de tranformar el contenido HTML a PDF.
-- La división mencionada en el item 1, el programa WKHTMLTOPDF es el encargado de manipular y realizar el PDF con los datos enviado desde python,lo que dificulta a primera intancias encontrar solución por las tantas herramientas y lenguajes de programación implicados
+- La división mencionada en el item 1, el programa WKHTMLTOPDF es el encargado de manipular y realizar el PDF con los datos enviado desde python lo que dificulta a primera intancia, encontrar solución por las tantas herramientas y lenguajes de programación implicados
 
 Explicado lo anterior, aqui tenemos el error:
 
