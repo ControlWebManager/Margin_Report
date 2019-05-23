@@ -32,7 +32,7 @@ Al cambiar la dimensión del logo, el  HEADER se redimensiona, y pierde la propo
      
 ## Solución del Error , Versión 1.0
 
-- Mantener el máximo height en 90px
+- Mantener el máximo height de la imagen en 90px (logo de la empresa)
 - No realizar ms cambios
 
 ### Imagen 
