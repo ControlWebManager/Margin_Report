@@ -27,8 +27,8 @@ Al cambiar la dimensión del logo, el  HEADER se redimensiona, y pierde la propo
 ### Imagen página 2
 ![](https://github.com/ControlWebManager/Margin_Report/blob/master/Selecci%C3%B3n_768.png)
 
-[Report_Normal][Report_Normal]
- https://github.com/ControlWebManager/Margin_Report/blob/master/Quotation%20_%20Order%20(41).pdf
+[Reporte con error][Reporte con error]
+ https://github.com/ControlWebManager/Margin_Report/blob/master/Quotation%20_%20Order%20(39).pdf
      
      
 
